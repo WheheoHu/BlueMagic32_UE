@@ -16,7 +16,7 @@
 #include "BlueMagicState.h"
 #include "BlueMagicCameraController.h"
 
-enum CONNECTION_STATE
+enum CONNECTION_STATE   
 {
   CAMERA_CONNECTED = 1,
   CAMERA_DISCONNECTED = 2,
